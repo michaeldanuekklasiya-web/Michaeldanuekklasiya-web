@@ -18,7 +18,7 @@ I am a seasoned professional in the fields of IT and design. I have successfully
 
 ### 🐍 GitHub Snake
 
-![snake gif](https://raw.githubusercontent.com/michaeldanuekk­lasiya/michaeldanuekk­lasiya/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/michaeldanuekkklasiya/michaeldanuekkklasiya/output/github-contribution-grid-snake.svg)
 
 
 If you have any feedback, please reach out to us at michaeldanuekklasiya@gmail.com
