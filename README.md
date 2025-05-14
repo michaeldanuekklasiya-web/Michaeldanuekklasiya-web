@@ -16,7 +16,9 @@ I am a seasoned professional in the fields of IT and design. I have successfully
 - My next blog
 - My CSS skill
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldanuekklasiya-web&show_icons=true&theme=light)
-## Feedback
+### 🐍 GitHub Snake
+
+![snake gif](https://raw.githubusercontent.com/michaeldanuekk­lasiya/michaeldanuekk­lasiya/output/github-contribution-grid-snake.svg)
+
 
 If you have any feedback, please reach out to us at michaeldanuekklasiya@gmail.com
